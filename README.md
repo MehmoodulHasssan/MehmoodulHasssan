@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehmood Ul Hassan</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack, Next.js, React Native, Django | Building Scalable Solutions at a Fast-Growing Startup</h3>
 
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MehmoodulHassan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on **Terescrow**
 
 - 🌱 I’m currently learning **Django**
