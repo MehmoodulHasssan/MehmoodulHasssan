@@ -3,7 +3,7 @@
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MehmoodulHassan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MehmoodulHasssan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Terescrow**
 
