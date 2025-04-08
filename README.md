@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmood Ul Hassan</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack, Next.js, React Native, Django | Building Scalable Solutions at a Fast-Growing Startup</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack, Nest Js, Next Js | Building Scalable Solutions at a Fast-Growing Startup</h3>
 
 ## GitHub Trophies
 
